@@ -17,6 +17,7 @@ int main(void)
             printf(" '' : multiplicao\n");
             printf("'/' : divisao\n");
             printf("'c' : Para limpar toda calculadora\n");
+	    printf("'e' : Para limpar o ultimo numero e operacao\n");
 
             printf("Digite o valor: \n");
 
